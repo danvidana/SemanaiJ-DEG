@@ -1,0 +1,52 @@
+item {
+  id: 1
+  name: "indio"
+}
+item {
+  name: "sol"
+  id: 2
+}
+item {
+  name: "xx"
+  id: 3
+}
+item {
+  name: "tecate"
+  id: 4
+}
+item {
+  name: "strongbowA"
+  id: 5
+}
+item {
+  name: "strongbowR"
+  id: 6
+}
+item {
+  name: "heineken"
+  id: 7
+}
+item {
+  name: "bohemiaP"
+  id: 8
+}
+item {
+  name: "heineken6"
+  id: 9
+}
+item {
+  name: "miller"
+  id: 10
+}
+item {
+  name: "carta"
+  id: 11
+}
+item {
+  name: "indioC"
+  id: 12
+}
+item {
+  name: "tecateC"
+  id: 13
+}
